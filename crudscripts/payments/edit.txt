@@ -1,0 +1,5 @@
+<?php
+	//connect to database
+	require $_SERVER['DOCUMENT_ROOT']."/dbconn.inc";
+	
+?>

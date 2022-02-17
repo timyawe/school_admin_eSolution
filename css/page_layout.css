@@ -1,0 +1,51 @@
+#app-container {
+	/*border: 1px solid;*/
+	padding: 10px;
+	position: relative;
+	width: 90%;
+	margin: auto;
+	height: 700px;
+	overflow: hidden;
+}
+
+#app-container-heading {
+	border: 1px solid;
+	padding: 5px;
+	float: left;
+	margin-left: 3px;
+	width: 79%;
+	/*position:absolute;
+	left: 202px;
+	*/
+}
+
+#side-bar {
+	border: 1px solid;
+	float: left;
+	height: 100%;
+	width: 20%
+}
+
+#page-view-container {
+	/*border: 1px solid;*/
+	float: left;
+	margin: 5px 0 0 3px;
+	width: 79%;
+	/*padding: 2px;
+	position: relative;
+	top: 70px;*/
+}
+
+.page-title-container {
+	border: 1px solid;
+	padding: 7px;
+	margin-bottom: 5px
+}
+
+.page-container {
+	border: 1px solid;
+	padding: 2px;
+	height: 540px;
+	min-height: 200px;
+	overflow: auto;
+}
